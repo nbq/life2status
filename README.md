@@ -1,1 +1,1 @@
-Visit this site at https://nbq.github.io/life2status/
+Visit this site at http://status.lifehud.net

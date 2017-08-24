@@ -1,6 +1,6 @@
 {
-    "footer": "Powered by GitHub",
+    "footer": "To access support and submit a ticket, visit <a href='http://support.lifehud.net'>http://support.lifehud.net</a><br/>To access your account, visit <a href='http://lifehud.net'>http://lifehud.net</a>",
     "logo": "https://raw.githubusercontent.com/nbq/life2status/master/template/logo.png",
-    "title": "[Life2] Status",
+    "title": "[Life2] Systems Status",
     "favicon": "https://raw.githubusercontent.com/nbq/life2status/master/template/favicon.ico"
 }
