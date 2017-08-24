@@ -1,0 +1,1 @@
+Visit this site at https://nbq.github.io/life2status/
